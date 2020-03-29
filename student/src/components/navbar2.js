@@ -9,6 +9,7 @@ function NavigationBar(props) {
     <div>
       <Navbar
         collapseOnSelect
+        fixed="top"
         expand="lg"
         variant="dark"
         style={{ backgroundColor: "#183666" }}

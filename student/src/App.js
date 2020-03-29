@@ -1,11 +1,10 @@
 import React from "react";
-import StudentLoginPage from "./routes/StudentLoginPage";
-import FacultyLoginPage from "./routes/FacultyLoginPage";
+import FrontPage from "./routes/frontPage";
 
 function App() {
   return (
     <div className="App">
-      <FacultyLoginPage />
+      <FrontPage />
     </div>
   );
 }
