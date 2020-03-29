@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title
 
 One Paragraph of project description goes here
@@ -85,3 +86,22 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+||||||| merged common ancestors
+# LIBRARY MANAGEMENT SYSTEM
+
+---
+This project is built to handle primary housekeeping functions of a library.
+This is very easy to use and fulfills all the requirement of a librarian.Students can use this app to check there card status and
+search for books available.They can also check there fine on individual cards.
+There are many features which helps librarian to keep records of available books as well as issued books.
+This software is currently local host based.
+=======
+# LIBRARY MANAGEMENT SYSTEM
+
+---
+This project is built to handle primary housekeeping functions of a library.
+This is very easy to use and fulfills all the requirement of a librarian.Students can use this app to check there card status and
+search for books available.They can also check there fine on individual cards.
+There are many features which helps librarian to keep records of available books as well as issued books.
+This software is currently local host based.
+>>>>>>> d63ccbddc832d49e66f44874c8b7301cff43eced
