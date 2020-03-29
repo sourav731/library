@@ -116,7 +116,7 @@ function FrontPage(props) {
             through INFLIBNET and INDEST Consortia. In total, the University
             Library has access to around 12530 Journals.The library subscribes
             to 30 databases which include Scopus, Econlit etc. and also about
-            10,057 E-books. A considerable part of the Libraryâ€™s acquisitions
+            10,057 E-books. A considerable part of the Library acquisitions
             consists of gifts from individuals and institutions, the largest
             book donation having been from Sri Uday Kumar Das, Kumar S.C. Nandy
             of Cossimbazar, the British Council, USIS, Asia Foundation, the late
@@ -158,7 +158,12 @@ function FrontPage(props) {
           </p>
 
           <div style={{ textAlign: "center" }}>
-            <Button variant="primary" size="lg">
+            <Button
+              variant="primary"
+              size="lg"
+              target="_blank"
+              href="http://www.jaduniv.edu.in/templates/newpages/library.html"
+            >
               Know more
             </Button>
           </div>

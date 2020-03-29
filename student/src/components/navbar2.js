@@ -29,13 +29,13 @@ function NavigationBar(props) {
           <Nav className="mr-auto">
             <Nav.Link href="#cardStatus">CARD STATUS</Nav.Link>
             <Nav.Link href="#findBook">FIND BOOK</Nav.Link>
-            <Nav.Link href="#issueBook">ISSUE HISTORY</Nav.Link>
+            <Nav.Link href="#issueHistory">ISSUE HISTORY</Nav.Link>
           </Nav>
         </Navbar.Collapse>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto"></Nav>
           <Nav>
-            <Navbar.Text>
+            <Navbar.Text style={{ color: "white", fontSize: "20px" }}>
               <b>{props.cardNumber}</b>
             </Navbar.Text>
             <Nav.Link href="#logout">
