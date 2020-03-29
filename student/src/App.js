@@ -1,10 +1,10 @@
 import React from "react";
-import FrontPage from "./routes/frontPage";
+import CardStatusPage from "./routes/cardStatus";
 
 function App() {
   return (
     <div className="App">
-      <FrontPage />
+      <CardStatusPage />
     </div>
   );
 }
